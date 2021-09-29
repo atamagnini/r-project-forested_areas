@@ -1,7 +1,7 @@
 #World forested areas 1990-2017
 ## r-project-forested_areas.github.io
 
-This project was written in R.
+This project was written in R. <br>
 The output shows the world forested areas (in millons of squared kilometers) between 1990 and 2017.
 The data was extracted from the World Development Indicators
 Output:
