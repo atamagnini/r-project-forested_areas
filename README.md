@@ -1,4 +1,5 @@
-# r-project-forested_areas.github.io
+#World forested areas 1990-2017
+## r-project-forested_areas.github.io
 
 This project was written in R.
 The output shows the world forested areas (in millons of squared kilometers) between 1990 and 2017.
