@@ -23,8 +23,7 @@ library(plotly)
 library(htmlwidgets)
 
 #leer dataframe
-dataset <- read.csv("D:/R scripts/script090320_Forested_areas/Data_Extract_From_WDI/Data.csv",
-                    stringsAsFactors = FALSE)
+dataset <- read.csv("~/Data.csv", stringsAsFactors = FALSE)
 
 #eliminar filas y columnas N/A
 dataset <- dataset[1:217, -c(3:34)]
